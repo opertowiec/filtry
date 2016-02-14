@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Expires: 1 days 
+! Expires: 0 days 
 ! Version: 1.02
 
 !--------------------------------------------------------------------------!
