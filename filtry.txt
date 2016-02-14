@@ -11,6 +11,8 @@
 ||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
 ||spolecznosci.net$domain=fotka.com
 ||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
+||apis.google.com/js/plusone.js
+
 
 
 !--------------------------------------------------------------------------!
