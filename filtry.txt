@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 14 Feb 2016 4:25
+! Last modified: 14 Feb 2016 4:28
 ! Expires: 1 days 
 ! Version: 1.02
 
 !--------------------------------------------------------------------------!
-||connect.facebook.net$script,domain=dailymotion.com|tune.pk|dramaqueen.pl|instagram.com|wygrywamzanoreksja.pl
+||connect.facebook.net$script,domain=dailymotion.com|tune.pk|dramaqueen.pl|instagram.com|wygrywamzanoreksja.pl|raw.senmanga.com
 ||platform.twitter.com$script,domain=dailymotion.com
 ||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
