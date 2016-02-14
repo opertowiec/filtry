@@ -1,5 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
+! Expires: 1 days 
 !--------------------------------------------------------------------------!
 
 ||connect.facebook.net$script,domain=dailymotion.com|tune.pk|dramaqueen.pl|instagram.com|wygrywamzanoreksja.pl
