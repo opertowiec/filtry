@@ -8,6 +8,7 @@
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
 ||spolecznosci.net$domain=fotka.com
+||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
 
 
 
