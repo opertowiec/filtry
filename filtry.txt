@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
 ! Expires: 1 days 
-! Version: 1.01
-!--------------------------------------------------------------------------!
+! Version: 1.02
 
+!--------------------------------------------------------------------------!
 ||connect.facebook.net$script,domain=dailymotion.com|tune.pk|dramaqueen.pl|instagram.com|wygrywamzanoreksja.pl
 ||platform.twitter.com$script,domain=dailymotion.com
 ||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
@@ -12,6 +12,10 @@
 ||spolecznosci.net$domain=fotka.com
 ||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
 ||apis.google.com/js/plusone.js
+
+
+!--------------------------------------------------------------------------!
+dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
 
 
 !--------------------------------------------------------------------------!
