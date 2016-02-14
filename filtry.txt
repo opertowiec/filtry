@@ -15,6 +15,7 @@
 ||apis.google.com/js/plusone.js
 ||webfrik.pl/widget$domain=anime-odcinki.pl
 ||wakai.pl$domain=anime-odcinki.pl
+||st.chatango.com
 
 
 !--------------------------------------------------------------------------!
