@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 14 Feb 2016 4:46
+! Last modified: 15 Feb 2016 0:29
 ! Expires: 1 days 
-! Version: 1.04
+! Version: 1.05
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -16,6 +16,7 @@
 ||webfrik.pl/widget$domain=anime-odcinki.pl
 ||wakai.pl$domain=anime-odcinki.pl
 ||st.chatango.com
+||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
 
 
 !--------------------------------------------------------------------------!
