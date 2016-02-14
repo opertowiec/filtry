@@ -12,6 +12,5 @@
 
 !--------------------------------------------------------------------------!
 @@||liverail.com$object,domain=dailymotion.com
-@@||wygrywamzanoreksja.pl/wp-content/plugins/uk-cookie-consent$first-party
 @@||pclab.pl/img/extra/107_top.jpg$image,first-party
 
