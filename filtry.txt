@@ -11,7 +11,6 @@
 ||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
 
 
-
 !--------------------------------------------------------------------------!
 @@||liverail.com$object,domain=dailymotion.com
 @@||pclab.pl/img/extra/107_top.jpg$image,first-party
