@@ -23,6 +23,7 @@ dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.
 anime-odcinki.pl###block-block-21
 dansetsu.pl###fbBox
 yafud.pl###fbBOX
+centrum-mangi.pl###content-site > .box:nth-of-type(5)
 
 
 
