@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+! Title: Filtry
+!--------------------------------------------------------------------------!
+
+||connect.facebook.net$script,domain=dailymotion.com|tune.pk|dramaqueen.pl|instagram.com
+||platform.twitter.com$script,domain=dailymotion.com
+||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
+||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
+||st.chatango.com
+
+
+
+!--------------------------------------------------------------------------!
+@@||liverail.com$object,domain=dailymotion.com
+@@||wygrywamzanoreksja.pl/wp-content/plugins/uk-cookie-consent$first-party
