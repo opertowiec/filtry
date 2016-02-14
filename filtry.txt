@@ -22,6 +22,7 @@
 dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
 anime-odcinki.pl###block-block-21
 dansetsu.pl###fbBox
+yafud.pl###fbBOX
 
 
 
