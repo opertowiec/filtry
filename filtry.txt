@@ -17,6 +17,7 @@
 ||wakai.pl$domain=anime-odcinki.pl
 ||st.chatango.com
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
+||radioaoi.pl
 
 
 !--------------------------------------------------------------------------!
