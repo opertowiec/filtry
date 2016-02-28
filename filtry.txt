@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Feb 2016 5:53
+! Last modified: 28 Feb 2016 6:18
 ! Expires: 1 days 
-! Version: 1.06
+! Version: 1.07
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -18,6 +18,8 @@
 ||chatango.com
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
 ||radioaoi.pl
+||www.benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
+
 
 
 !--------------------------------------------------------------------------!
@@ -26,6 +28,7 @@ anime-odcinki.pl###block-block-21
 dansetsu.pl###fbBox
 yafud.pl###fbBOX
 centrum-mangi.pl###content-site > .box:nth-of-type(5)
+benchmark.pl###socialEntryBar
 
 
 
