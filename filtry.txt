@@ -15,7 +15,7 @@
 ||apis.google.com/js/plusone.js
 ||webfrik.pl/widget$domain=anime-odcinki.pl
 ||wakai.pl$domain=anime-odcinki.pl
-||st.chatango.com
+||chatango.com
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
 ||radioaoi.pl
 
