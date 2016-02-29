@@ -24,6 +24,18 @@
 ||downloatransfer.com
 ||mangafox.me/fb.html$subdocument,first-party
 ||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
+||maps.google.com/maps-api-v3$script,domain=drama-online.pl
+||myao.adocean.pl/ad.xml$object,important
+||www.adotube.com/crossdomain.xml$object,important
+||www3.smartadserver.com/crossdomain.xml$object,important
+||myao.adocean.pl/crossdomain.xml$object,important
+||bid.g.doubleclick.net/crossdomain.xml$object,important
+||c2s-openrtb.liverail.com/$object,domain=www.dailymotion.com,important
+||t4.liverail.com$object,domain=www.dailymotion.com,important
+||tubemogul.com$object,domain=www.dailymotion.com,important
+||cdn-static.liverail.com$object,domain=www.dailymotion.com,important
+||graph.facebook.com$object,domain=www.dailymotion.com
+||plus.google.com/js$script
 
 
 
