@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Feb 2016 6:18
+! Last modified: 29 Feb 2016 1:55
 ! Expires: 1 days 
-! Version: 1.07
+! Version: 1.08
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -19,6 +19,9 @@
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
 ||radioaoi.pl
 ||www.benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
+||cloudfront.net$script,domain=openload.co
+||vidfile.net/js/6/10/sharing.js$script,first-party
+||downloatransfer.com
 
 
 
