@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 29 Feb 2016 2:20
+! Last modified: 5 Mar 2016 5:25
 ! Expires: 1 days 
-! Version: 1.09
+! Version: 1.10
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -52,6 +52,6 @@ benchmark.pl###socialEntryBar
 
 !--------------------------------------------------------------------------!
 @@||liverail.com$object,domain=dailymotion.com
-@@||pclab.pl/img/extra/107_top.jpg$image,first-party
+@@||pclab.pl/*logo.png$image,first-party
 @@||connect.facebook.net$script,domain=streetfoodpolska.pl
 
