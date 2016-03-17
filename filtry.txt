@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 5 Mar 2016 5:25
+! Last modified: 17 Mar 2016 4:02
 ! Expires: 1 days 
-! Version: 1.10
+! Version: 1.11
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -36,6 +36,8 @@
 ||cdn-static.liverail.com$object,domain=www.dailymotion.com,important
 ||graph.facebook.com$object,domain=www.dailymotion.com
 ||plus.google.com/js$script
+||i.wp.pl$script
+
 
 
 
