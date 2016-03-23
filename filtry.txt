@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 20 Mar 2016 6:08
+! Last modified: 23 Mar 2016 6:23
 ! Expires: 1 days 
-! Version: 1.12
+! Version: 1.11
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -21,7 +21,6 @@
 ||www.benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
 ||cloudfront.net$script,domain=openload.co
 ||vidfile.net/js/6/10/sharing.js$script,first-party
-||downloatransfer.com
 ||mangafox.me/fb.html$subdocument,first-party
 ||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
