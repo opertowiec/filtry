@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 11 May 2016 23:57
+! Last modified: 12 May 2016 00:00
 ! Expires: 1 days 
-! Version: 1.16
+! Version: 1.17
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -37,7 +37,7 @@
 ||i.wp.pl$script
 ||graph.facebook.com
 ||konto.amronet.pl
-
+||pagead2.googlesyndication.com/pagead/js$script,important
 
 
 
