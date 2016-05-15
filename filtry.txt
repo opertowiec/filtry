@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 16 May 2016 01:11
+! Last modified: 16 May 2016 01:13
 ! Expires: 1 days 
-! Version: 1.21
+! Version: 1.22
 
 !--------------------------------------------------------------------------!
 ||connect.facebook.net$script
@@ -48,7 +48,7 @@
 dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
 dobreprogramy.pl###slide-menu > .target.center.page-element
 anime-odcinki.pl###block-block-21
-anime-odcinki.pl##.main-container > .trending-articles > .tickercontainer
+anime-odcinki.pl##.main-container > .trending-articles
 dansetsu.pl###fbBox
 dansetsu.pl###content > .banner
 yafud.pl###fbBOX
