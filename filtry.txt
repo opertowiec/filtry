@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 23 May 2016 05:42
+! Last modified: 23 May 2016 05:45
 ! Expires: 1 days 
 ! Version: 1.25
 
@@ -14,6 +14,7 @@
 ||chatango.com
 ||cloudfront.net$script,domain=openload.co
 ||connect.facebook.net$script
+||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
 ||goadservices.com$script
 ||graph.facebook.com
 ||i.wp.pl$script
