@@ -1,65 +1,64 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 23 May 2016 05:35
+! Last modified: 23 May 2016 05:42
 ! Expires: 1 days 
-! Version: 1.24
+! Version: 1.25
 
 !--------------------------------------------------------------------------!
-||connect.facebook.net$script
-||platform.twitter.com$script
-||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
-||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
-||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
-||spolecznosci.net$domain=fotka.com
-||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
+||adotube.com/crossdomain.xml$object,important
 ||apis.google.com/js/plusone.js
-||webfrik.pl/widget$domain=anime-odcinki.pl
-||wakai.pl$domain=anime-odcinki.pl
-||chatango.com
-||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
-||radioaoi.pl
-||www.benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
-||cloudfront.net$script,domain=openload.co
-||vidfile.net/js/6/10/sharing.js$script,first-party
-||mangafox.me/fb.html$subdocument,first-party
-||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
-||maps.google.com/maps-api-v3$script,domain=drama-online.pl
-||myao.adocean.pl/ad.xml$object,important
-||www.adotube.com/crossdomain.xml$object,important
-||www3.smartadserver.com/crossdomain.xml$object,important
-||myao.adocean.pl/crossdomain.xml$object,important
+||benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
 ||bid.g.doubleclick.net/crossdomain.xml$object,important
 ||c2s-openrtb.liverail.com/$object,domain=dailymotion.com,important
+||cdn-static.liverail.com$object,domain=dailymotion.com,important
+||chatango.com
+||cloudfront.net$script,domain=openload.co
+||connect.facebook.net$script
+||goadservices.com$script
+||graph.facebook.com
+||i.wp.pl$script
+||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
+||mangafox.me/fb.html$subdocument,first-party
+||maps.google.com/maps-api-v3$script,domain=drama-online.pl
+||myao.adocean.pl/*.xml$object,important
+||pagead2.googlesyndication.com/pagead/js$script,important
+||platform.twitter.com$script
+||plus.google.com/js$script
+||radioaoi.pl
+||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
+||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
+||smartadserver.com/crossdomain.xml$object,important
+||spolecznosci.net$domain=fotka.com
+||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
+||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||t4.liverail.com$object,domain=dailymotion.com,important
 ||tubemogul.com$object,domain=dailymotion.com,important
-||cdn-static.liverail.com$object,domain=dailymotion.com,important
-||plus.google.com/js$script
-||i.wp.pl$script
-||graph.facebook.com
-||pagead2.googlesyndication.com/pagead/js$script,important
-||goadservices.com$script
+||vidfile.net/js/6/10/sharing.js$script,first-party
+||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
+||wakai.pl$domain=anime-odcinki.pl
+||webfrik.pl/widget$domain=anime-odcinki.pl
 
 
 
 
 !--------------------------------------------------------------------------!
-dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
-dobreprogramy.pl###slide-menu > .target.center.page-element
 anime-odcinki.pl###block-block-21
 anime-odcinki.pl##.main-container > .trending-articles
-dansetsu.pl###fbBox
-dansetsu.pl###content > .banner
-yafud.pl###fbBOX
-centrum-mangi.pl###content-site > .box:nth-of-type(5)
 benchmark.pl###socialEntryBar
+centrum-mangi.pl###content-site > .box:nth-of-type(5)
+dansetsu.pl###content > .banner
+dansetsu.pl###fbBox
+dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
+dobreprogramy.pl###slide-menu > .target.center.page-element
 fotka.com###bill-no-star-suggest
+yafud.pl###fbBOX
 
 
 
 
 !--------------------------------------------------------------------------!
-@@||liverail.com$object,domain=dailymotion.com
-@@||pclab.pl/*logo.png$image,first-party
 @@||connect.facebook.net$script,domain=streetfoodpolska.pl
 @@||imgstat.ameba.jp/view$image,domain=ameblo.jp
+@@||liverail.com$object,domain=dailymotion.com
+@@||pclab.pl/*logo.png$image,first-party
 
