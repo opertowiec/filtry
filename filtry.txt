@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 24 May 2016 00:25
+! Last modified: 25 May 2016 04:30
 ! Expires: 1 days 
-! Version: 1.27
+! Version: 1.28
 
 !--------------------------------------------------------------------------!
 ||adotube.com/crossdomain.xml$object,important
@@ -15,7 +15,6 @@
 ||chatango.com
 ||cloudfront.net$script,domain=openload.co
 ||connect.facebook.net$script
-||external-waw1-1.xx.fbcdn.net/safe_image.php$image,domain=facebook.com
 ||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
 ||goadservices.com$script
 ||graph.facebook.com
