@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 25 May 2016 04:30
+! Last modified: 26 May 2016 02:15
 ! Expires: 1 days 
-! Version: 1.28
+! Version: 1.29
 
 !--------------------------------------------------------------------------!
 ||adotube.com/crossdomain.xml$object,important
@@ -32,6 +32,7 @@
 ||smartadserver.com/crossdomain.xml$object,important
 ||spolecznosci.net$domain=fotka.com
 ||stat100.ameba.jp/adcross/pub/js/adLoader-0.1.3.js$script,domain=ameblo.jp
+||static.dpcdn.pl/2016_05_18/css/UGCPlatform/images/green/pattern.png$image
 ||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||t4.liverail.com$object,domain=dailymotion.com,important
@@ -52,7 +53,11 @@ benchmark.pl###socialEntryBar
 centrum-mangi.pl###content-site > .box:nth-of-type(5)
 dansetsu.pl###content > .banner
 dansetsu.pl###fbBox
+dobreprogramy.pl###komentarze > .grid-margin-px15-top
+dobreprogramy.pl###panReklama > div
+dobreprogramy.pl###phContent_CommentsControl_divAdTop
 dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
+dobreprogramy.pl###sidebar > .no-mobile.pattern
 dobreprogramy.pl###slide-menu > .target.center.page-element
 fotka.com###bill-no-star-suggest
 myanimelist.net###content > .content-container > .container-left > .pt24.clearfix
