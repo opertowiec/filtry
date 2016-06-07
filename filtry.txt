@@ -1,12 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 May 2016 01:08
+! Last modified: 06 Jun 2016 07:04
 ! Expires: 1 days 
-! Version: 1.30
+! Version: 1.31
 
 !--------------------------------------------------------------------------!
+||104.197.4.220
 ||adotube.com/crossdomain.xml$object,important
 ||adt.measure.ameblo.jp$image,first-party
+||adverpub.com/tag/ext/480/$subdocument
 ||apis.google.com/js/plusone.js
 ||benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
 ||bid.g.doubleclick.net/crossdomain.xml$object,important
@@ -41,6 +43,7 @@
 ||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
 ||wakai.pl$domain=anime-odcinki.pl
 ||webfrik.pl/widget$domain=anime-odcinki.pl
+||www.profitboosterapp.com$popup
 
 
 
