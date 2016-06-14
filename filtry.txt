@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 10 Jun 2016 00:41
+! Last modified: 14 Jun 2016 06:10
 ! Expires: 1 days 
-! Version: 1.35
+! Version: 1.36
 !--------------------------------------------------------------------------!
 ||104.197.4.220
 ||adotube.com/crossdomain.xml$object,important
@@ -25,6 +25,7 @@
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
 ||myao.adocean.pl/*.xml$object,important
 ||pagead2.googlesyndication.com/pagead/js$script,important
+||partnerzyapi.ceneo.pl$script
 ||platform.twitter.com$script
 ||plus.google.com/js$script
 ||radioaoi.pl
