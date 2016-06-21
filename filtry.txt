@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 14 Jun 2016 06:10
+! Last modified: 21 Jun 2016 07:52
 ! Expires: 1 days 
-! Version: 1.36
+! Version: 1.37
 !--------------------------------------------------------------------------!
 ||104.197.4.220
 ||adotube.com/crossdomain.xml$object,important
@@ -21,6 +21,7 @@
 ||graph.facebook.com
 ||i.wp.pl$script
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
+||juiceads.net/wigetmedia.php$popup
 ||mangafox.me/fb.html$subdocument,first-party
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
 ||myao.adocean.pl/*.xml$object,important
@@ -39,10 +40,12 @@
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||t4.liverail.com$object,domain=dailymotion.com,important
 ||tubemogul.com$object,domain=dailymotion.com,important
+||videowood.tv/pop$popup
 ||vidfile.net/js/6/10/sharing.js$script,first-party
 ||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
 ||wakai.pl$domain=anime-odcinki.pl
 ||webfrik.pl/widget$domain=anime-odcinki.pl
+||wordgetboo.com/redirect$popup
 ||www.profitboosterapp.com$popup
 
 
