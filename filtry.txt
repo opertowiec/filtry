@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 21 Jun 2016 07:52
+! Last modified: 24 Jun 2016 00:29
 ! Expires: 1 days 
-! Version: 1.37
+! Version: 1.38
 !--------------------------------------------------------------------------!
 ||104.197.4.220
 ||adotube.com/crossdomain.xml$object,important
@@ -89,6 +89,9 @@ myanimelist.net###content > .pt24.clearfix.mauto
 myanimelist.net###content > .right-column > .widget > .right.right_top_ad.widget
 myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(1) > .clearfix
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td > div:nth-of-type(3)
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(2)
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(3)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(1)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(2)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(1)
