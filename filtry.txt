@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 26 Jun 2016 08:19
+! Last modified: 30 Jun 2016 00:51
 ! Expires: 1 days 
-! Version: 1.39
+! Version: 1.40
 !--------------------------------------------------------------------------!
 ||104.197.4.220
+||104.198.198.188
 ||adotube.com/crossdomain.xml$object,important
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/tag/ext/480/$subdocument
@@ -73,6 +74,8 @@ dobreprogramy.pl###sidebar > .no-mobile.pattern
 dobreprogramy.pl###slide-menu > .target.center.page-element
 dobreprogramy.pl##[style="height: 180px; width: 630;"]
 fotka.com###bill-no-star-suggest
+fotka.com###brd_najnowsze
+fotka.com###brd_profil
 myanimelist.net###content > .clearfix:nth-of-type(5)
 myanimelist.net###content > .content-container > .container-left > .pt24.clearfix
 myanimelist.net###content > .content-container > .container-right > ._unit:nth-of-type(3)
@@ -111,5 +114,4 @@ yafud.pl###fbBOX
 @@||connect.facebook.net$script,domain=streetfoodpolska.pl
 @@||imgstat.ameba.jp/view$image,domain=ameblo.jp
 @@||liverail.com$object,domain=dailymotion.com
-@@||pclab.pl/*logo.png$image,first-party
 
