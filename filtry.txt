@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 30 Jun 2016 00:51
+! Last modified: 09 Jul 2016 01:39
 ! Expires: 1 days 
-! Version: 1.40
+! Version: 1.41
 !--------------------------------------------------------------------------!
 ||104.197.4.220
 ||104.198.198.188
@@ -10,6 +10,7 @@
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/tag/ext/480/$subdocument
 ||apis.google.com/js/plusone.js
+||beach-queen.net$popup
 ||benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
 ||bid.g.doubleclick.net/crossdomain.xml$object,important
 ||c2s-openrtb.liverail.com/$object,domain=dailymotion.com,important
@@ -17,6 +18,8 @@
 ||chatango.com
 ||cloudfront.net$script,domain=openload.co
 ||connect.facebook.net$script
+||console-domain.link$popup
+||day-multi.work$popup
 ||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
 ||goadservices.com$script
 ||graph.facebook.com
@@ -32,19 +35,24 @@
 ||platform.twitter.com$script
 ||plus.google.com/js$script
 ||px.large-format.net
+||queen-domain.net$popup
 ||radioaoi.pl
 ||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
 ||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
 ||smartadserver.com/crossdomain.xml$object,important
+||socket-parser.work$popup
 ||spolecznosci.net$domain=fotka.com
 ||stat100.ameba.jp/adcross/pub/js/adLoader-0.1.3.js$script,domain=ameblo.jp
 ||static.dpcdn.pl/*/pattern.png$image
 ||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
+||stephanie.dntrx.com$popup
 ||t4.liverail.com$object,domain=dailymotion.com,important
 ||tubemogul.com$object,domain=dailymotion.com,important
+||vid.lu$popup
 ||videowood.tv/pop$popup
 ||vidfile.net/js/6/10/sharing.js$script,first-party
+||vidshaker.com$popup
 ||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
 ||wakai.pl$domain=anime-odcinki.pl
 ||webfrik.pl/widget$domain=anime-odcinki.pl
@@ -83,6 +91,7 @@ myanimelist.net###content > .content-container > .container-right > ._unit:nth-o
 myanimelist.net###content > .content-container > .container-right > .clearfix
 myanimelist.net###content > .content-left > .clearfix
 myanimelist.net###content > .content-left > .js-scrollfix-bottom-rel > .clearfix
+myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit
 myanimelist.net###content > .content-right > ._unit
 myanimelist.net###content > .content-right > .js-scrollfix-bottom > ._unit
 myanimelist.net###content > .content-right > .js-scrollfix-bottom > .mt24:nth-of-type(10) > ._unit
