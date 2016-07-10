@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 09 Jul 2016 01:39
+! Last modified: 10 Jul 2016 07:33
 ! Expires: 1 days 
-! Version: 1.41
+! Version: 1.42
 !--------------------------------------------------------------------------!
 ||104.197.4.220
 ||104.198.198.188
@@ -104,15 +104,19 @@ myanimelist.net###content > .pt24.clearfix.mauto
 myanimelist.net###content > .right-column > .widget > .right.right_top_ad.widget
 myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(1) > .clearfix
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > .border_top
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > .mb4.pb12.pt12.border_bottom
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(13)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td > div:nth-of-type(3)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(2)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(3)
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(5)
+myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(7)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(1)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(2)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(1)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(2)
 myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(3)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .pt24.clearfix.mauto
 myanimelist.net###contentWrapper > .pt24.clearfix.mauto
 yafud.pl###fbBOX
 
