@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 10 Jul 2016 07:38
+! Last modified: 10 Jul 2016 07:45
 ! Expires: 1 days 
-! Version: 1.43
+! Version: 1.44
 !--------------------------------------------------------------------------!
 ||104.197.4.220
 ||104.198.198.188
@@ -74,6 +74,7 @@ dansetsu.pl###fbBox
 dobreprogramy.pl###komentarze > .grid-margin-px15-top
 dobreprogramy.pl###panReklama > div
 dobreprogramy.pl###phContent_CommentsControl_divAdTop
+dobreprogramy.pl###phContent_divText > .clearfix.grid-margin-px15-top.nested-grid.social
 dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
 dobreprogramy.pl###programs > tbody > .no-filter:nth-of-type(12)
 dobreprogramy.pl###programs > tbody > .no-filter:nth-of-type(6)
