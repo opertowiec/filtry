@@ -1,9 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 10 Jul 2016 07:45
+! Last modified: 13 Jul 2016 00:24
 ! Expires: 1 days 
-! Version: 1.44
+! Version: 1.45
 !--------------------------------------------------------------------------!
+||104.197.140.120
 ||104.197.4.220
 ||104.198.198.188
 ||adotube.com/crossdomain.xml$object,important
@@ -30,6 +31,8 @@
 ||mangafox.me/fb.html$subdocument,first-party
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
 ||myao.adocean.pl/*.xml$object,important
+||njfy6.redirectvoluum.com/redirect$popup
+||njfy6.voluumtrk.com$popup
 ||pagead2.googlesyndication.com/pagead/js$script,important
 ||partnerzyapi.ceneo.pl$script
 ||platform.twitter.com$script
