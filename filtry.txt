@@ -1,14 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 13 Jul 2016 00:24
+! Last modified: 16 Jul 2016 08:36
 ! Expires: 1 days 
-! Version: 1.45
+! Version: 1.46
 !--------------------------------------------------------------------------!
 ||104.197.140.120
 ||104.197.4.220
 ||104.198.198.188
 ||adotube.com/crossdomain.xml$object,important
 ||adt.measure.ameblo.jp$image,first-party
+||adverpub.com/ads$script
 ||adverpub.com/tag/ext/480/$subdocument
 ||apis.google.com/js/plusone.js
 ||beach-queen.net$popup
@@ -51,6 +52,7 @@
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||stephanie.dntrx.com$popup
 ||t4.liverail.com$object,domain=dailymotion.com,important
+||translate.google.com$script,domain=station-drivers.com
 ||tubemogul.com$object,domain=dailymotion.com,important
 ||vid.lu$popup
 ||videowood.tv/pop$popup
