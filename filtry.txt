@@ -1,12 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 16 Jul 2016 08:36
+! Last modified: 28 Oct 2016 01:21
 ! Expires: 1 days 
-! Version: 1.46
+! Version: 1.50
 !--------------------------------------------------------------------------!
-||104.197.140.120
-||104.197.4.220
-||104.198.198.188
+||*.cloudfront.net$domain=raw.senmanga.com
+||104.154.237.193$popup
 ||adotube.com/crossdomain.xml$object,important
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/ads$script
@@ -15,19 +14,23 @@
 ||beach-queen.net$popup
 ||benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
 ||bid.g.doubleclick.net/crossdomain.xml$object,important
+||boksy.onet.pl$script,domain=pclab.pl
 ||c2s-openrtb.liverail.com/$object,domain=dailymotion.com,important
 ||cdn-static.liverail.com$object,domain=dailymotion.com,important
 ||chatango.com
 ||cloudfront.net$script,domain=openload.co
 ||connect.facebook.net$script
 ||console-domain.link$popup
+||converti.se
 ||day-multi.work$popup
+||events.onet.pl$script,domain=pclab.pl
 ||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
 ||goadservices.com$script
 ||graph.facebook.com
 ||i.wp.pl$script
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
 ||juiceads.net/wigetmedia.php$popup
+||k266d5zsl.onet.pl$domain=pclab.pl
 ||large-format.net$popup
 ||mangafox.me/fb.html$subdocument,first-party
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
@@ -36,6 +39,7 @@
 ||njfy6.voluumtrk.com$popup
 ||pagead2.googlesyndication.com/pagead/js$script,important
 ||partnerzyapi.ceneo.pl$script
+||pclab.pl/cruncher/$first-party
 ||platform.twitter.com$script
 ||plus.google.com/js$script
 ||px.large-format.net
@@ -43,6 +47,7 @@
 ||radioaoi.pl
 ||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
 ||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
+||sgqcvfjvr.onet.pl$script,domain=pclab.pl
 ||smartadserver.com/crossdomain.xml$object,important
 ||socket-parser.work$popup
 ||spolecznosci.net$domain=fotka.com
@@ -64,8 +69,6 @@
 ||wordgetboo.com/redirect$popup
 ||www.profitboosterapp.com$popup
 ||zk1.zeroredirect9.com/zcvisitor$popup
-
-
 
 
 
