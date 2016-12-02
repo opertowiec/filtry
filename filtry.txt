@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 27 Nov 2016 02:50
+! Last modified: 02 Dec 2016 01:05
 ! Expires: 1 days 
-! Version: 1.51
+! Version: 1.52
 !--------------------------------------------------------------------------!
 ||*$xmlhttprequest,domain=raw.senmanga.com
 ||*.cloudfront.net$domain=raw.senmanga.com
@@ -13,6 +13,7 @@
 ||apis.google.com/js/plusone.js
 ||beach-queen.net$popup
 ||benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
+||benchmark.pl/js/n/b.ads.js$important
 ||bid.g.doubleclick.net/crossdomain.xml$object,important
 ||boksy.onet.pl$script,domain=pclab.pl
 ||c2s-openrtb.liverail.com/$object,domain=dailymotion.com,important
@@ -26,6 +27,7 @@
 ||events.onet.pl$script,domain=pclab.pl
 ||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
 ||goadservices.com$script
+||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
 ||graph.facebook.com
 ||i.wp.pl$script
 ||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
@@ -42,6 +44,7 @@
 ||pclab.pl/cruncher/$first-party
 ||platform.twitter.com$script
 ||plus.google.com/js$script
+||profitboosterapp.com$popup
 ||px.large-format.net
 ||queen-domain.net$popup
 ||radioaoi.pl
@@ -53,7 +56,7 @@
 ||spolecznosci.net$domain=fotka.com
 ||stat100.ameba.jp/adcross/pub/js/adLoader-0.1.3.js$script,domain=ameblo.jp
 ||static.dpcdn.pl/*/pattern.png$image
-||static.dpcdn.pl/2016_11_19/assets/img/magix/magix.css$stylesheet,domain=www.dobreprogramy.pl
+||static.dpcdn.pl/2016_11_19/assets/img/magix/magix.css$stylesheet,domain=dobreprogramy.pl
 ||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||stephanie.dntrx.com$popup
@@ -68,8 +71,7 @@
 ||wakai.pl$domain=anime-odcinki.pl
 ||webfrik.pl/widget$domain=anime-odcinki.pl
 ||wordgetboo.com/redirect$popup
-||wp.pl$domain=www.dobreprogramy.pl,important
-||www.profitboosterapp.com$popup
+||wp.pl$domain=dobreprogramy.pl,important
 ||zk1.zeroredirect9.com/zcvisitor$popup
 
 
