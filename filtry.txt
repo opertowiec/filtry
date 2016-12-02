@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 02 Dec 2016 01:05
+! Last modified: 02 Dec 2016 01:06
 ! Expires: 1 days 
-! Version: 1.52
+! Version: 1.53
 !--------------------------------------------------------------------------!
 ||*$xmlhttprequest,domain=raw.senmanga.com
 ||*.cloudfront.net$domain=raw.senmanga.com
@@ -138,4 +138,5 @@ yafud.pl###fbBOX
 @@||connect.facebook.net$script,domain=streetfoodpolska.pl
 @@||imgstat.ameba.jp/view$image,domain=ameblo.jp
 @@||liverail.com$object,domain=dailymotion.com
+@@||morele.net$xmlhttprequest,first-party,important
 
