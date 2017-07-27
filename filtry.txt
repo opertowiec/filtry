@@ -83,7 +83,7 @@
 ||webfrik.pl/widget$domain=anime-odcinki.pl
 ||wordgetboo.com/redirect$popup
 ||wp.pl$domain=dobreprogramy.pl,important
-||www.gstatic.com^$domain=fotka.com
+||gstatic.com^$domain=fotka.com
 ||zk1.zeroredirect9.com/zcvisitor$popup
 
 
