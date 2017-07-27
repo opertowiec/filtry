@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Jul 2017 00:37
+! Last modified: 28 Jul 2017 00:41
 ! Expires: 1 days 
-! Version: 1.56
+! Version: 1.57
 
 
 
@@ -41,7 +41,6 @@
 ||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
 ||graph.facebook.com
 ||i.wp.pl$script
-||imagizer.imageshack.us/v2/88x31q90/41/zixt.png$image,domain=centrum-mangi.pl
 ||juiceads.net/wigetmedia.php$popup
 ||k266d5zsl.onet.pl$domain=pclab.pl
 ||large-format.net$popup
@@ -93,7 +92,6 @@
 anime-odcinki.pl###block-block-21
 anime-odcinki.pl##.main-container > .trending-articles
 benchmark.pl###socialEntryBar
-centrum-mangi.pl###content-site > .box:nth-of-type(5)
 dansetsu.pl###content > .banner
 dansetsu.pl###fbBox
 dobreprogramy.pl###komentarze > .grid-margin-px15-top
