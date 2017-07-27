@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Jul 2017 00:48
+! Last modified: 28 Jul 2017 01:02
 ! Expires: 1 days 
-! Version: 1.58
+! Version: 1.60
 
 
 
@@ -40,6 +40,7 @@
 ||goadservices.com$script
 ||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
 ||graph.facebook.com
+||gstatic.com^$domain=fotka.com
 ||i.wp.pl$script
 ||juiceads.net/wigetmedia.php$popup
 ||k266d5zsl.onet.pl$domain=pclab.pl
@@ -53,7 +54,6 @@
 ||njfy6.voluumtrk.com$popup
 ||pagead2.googlesyndication.com/pagead/js$script,important
 ||partnerzyapi.ceneo.pl$script
-||pclab.pl/cruncher/$first-party
 ||pclab.pl/js/ads.js$important
 ||pitally.info^
 ||platform.twitter.com$script
@@ -79,32 +79,17 @@
 ||vidfile.net/js/6/10/sharing.js$script,first-party
 ||vidshaker.com$popup
 ||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
-||wakai.pl$domain=anime-odcinki.pl
-||webfrik.pl/widget$domain=anime-odcinki.pl
+||widget.convertiser.com^
 ||wordgetboo.com/redirect$popup
 ||wp.pl$domain=dobreprogramy.pl,important
-||gstatic.com^$domain=fotka.com
 ||zk1.zeroredirect9.com/zcvisitor$popup
 
 
 
 !--------------------------------------------------------------------------!
-anime-odcinki.pl###block-block-21
-anime-odcinki.pl##.main-container > .trending-articles
 benchmark.pl###socialEntryBar
 dansetsu.pl###content > .banner
 dansetsu.pl###fbBox
-dobreprogramy.pl###komentarze > .grid-margin-px15-top
-dobreprogramy.pl###panReklama > div
-dobreprogramy.pl###phContent_CommentsControl_divAdTop
-dobreprogramy.pl###phContent_divText > .clearfix.grid-margin-px15-top.nested-grid.social
-dobreprogramy.pl###phContent_divText > .no-mobile.clearfix.grid-margin-px15-top.nested-grid.social
-dobreprogramy.pl###programs > tbody > .no-filter:nth-of-type(12)
-dobreprogramy.pl###programs > tbody > .no-filter:nth-of-type(6)
-dobreprogramy.pl###sidebar > .block:nth-of-type(4)
-dobreprogramy.pl###sidebar > .no-mobile.pattern
-dobreprogramy.pl###slide-menu > .target.center.page-element
-dobreprogramy.pl##[style="height: 180px; width: 630;"]
 fotka.com###bill-no-star-suggest
 fotka.com###brd_najnowsze
 fotka.com###brd_profil
