@@ -54,6 +54,7 @@
 ||njfy6.voluumtrk.com$popup
 ||pagead2.googlesyndication.com/pagead/js$script,important
 ||partnerzyapi.ceneo.pl$script
+||pclab.pl/cruncher/*$first-party
 ||pclab.pl/js/ads.js$important
 ||pitally.info^
 ||platform.twitter.com$script
