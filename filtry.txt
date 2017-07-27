@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Jul 2017 00:24
+! Last modified: 28 Jul 2017 00:37
 ! Expires: 1 days 
-! Version: 1.55
+! Version: 1.56
 
 
 
@@ -15,6 +15,7 @@
 ||*.cloudfront.net$domain=raw.senmanga.com
 ||adotube.com/crossdomain.xml$object,important
 ||adsstrike.pro
+||pitally.info^
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/ads$script
 ||adverpub.com/tag/ext/480/$subdocument
@@ -109,38 +110,6 @@ dobreprogramy.pl##[style="height: 180px; width: 630;"]
 fotka.com###bill-no-star-suggest
 fotka.com###brd_najnowsze
 fotka.com###brd_profil
-myanimelist.net###content > .clearfix:nth-of-type(5)
-myanimelist.net###content > .content-container > .container-left > .pt24.clearfix
-myanimelist.net###content > .content-container > .container-right > ._unit:nth-of-type(3)
-myanimelist.net###content > .content-container > .container-right > ._unit:nth-of-type(6)
-myanimelist.net###content > .content-container > .container-right > .clearfix
-myanimelist.net###content > .content-left > .clearfix
-myanimelist.net###content > .content-left > .js-scrollfix-bottom-rel > .clearfix
-myanimelist.net###content > .content-result > .content-right > .js-scrollfix-bottom > ._unit
-myanimelist.net###content > .content-right > ._unit
-myanimelist.net###content > .content-right > .js-scrollfix-bottom > ._unit
-myanimelist.net###content > .content-right > .js-scrollfix-bottom > .mt24:nth-of-type(10) > ._unit
-myanimelist.net###content > .content-right > .js-scrollfix-bottom > div:nth-of-type(1)
-myanimelist.net###content > .content-right > .js-scrollfix-bottom > div:nth-of-type(10) > ._unit
-myanimelist.net###content > .content-right > .js-scrollfix-bottom > div:nth-of-type(9) > ._unit
-myanimelist.net###content > .content-right > div:nth-of-type(9)
-myanimelist.net###content > .pt12.left-column
-myanimelist.net###content > .pt24.clearfix.mauto
-myanimelist.net###content > .right-column > .widget > .right.right_top_ad.widget
-myanimelist.net###content > table > tbody > tr > .borderClass > .js-scrollfix-bottom > .mt16.mauto.clearfix
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(1) > .clearfix
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > .border_top
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > .mb4.pb12.pt12.border_bottom
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(13)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(2) > div:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td > div:nth-of-type(3)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(5)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > div:nth-of-type(7)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(1)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(1) > td > .border_top > div:nth-of-type(2)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(1)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(2)
-myanimelist.net###content > table > tbody > tr > td:nth-of-type(2) > .js-scrollfix-bottom-rel > table > tbody > tr:nth-of-type(2) > .pb24 > div:nth-of-type(3)
-myanimelist.net###contentWrapper > .pt24.clearfix.mauto
 yafud.pl###fbBOX
 
 
