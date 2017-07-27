@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Jul 2017 00:41
+! Last modified: 28 Jul 2017 00:48
 ! Expires: 1 days 
-! Version: 1.57
+! Version: 1.58
 
 
 
@@ -15,7 +15,6 @@
 ||*.cloudfront.net$domain=raw.senmanga.com
 ||adotube.com/crossdomain.xml$object,important
 ||adsstrike.pro
-||pitally.info^
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/ads$script
 ||adverpub.com/tag/ext/480/$subdocument
@@ -36,7 +35,8 @@
 ||day-multi.work$popup
 ||events.onet.pl$script,domain=pclab.pl
 ||extads.net
-||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
+||fotka.com/ajax_action/ads_stats
+||fotka.com/profil/savevisits/api.php$xmlhttprequest,first-party
 ||goadservices.com$script
 ||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
 ||graph.facebook.com
@@ -48,24 +48,23 @@
 ||mangafox.me/fb.html$subdocument,first-party
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
 ||myao.adocean.pl/*.xml$object,important
+||n.fotka.com/socket.io/*$websocket,first-party
 ||njfy6.redirectvoluum.com/redirect$popup
 ||njfy6.voluumtrk.com$popup
 ||pagead2.googlesyndication.com/pagead/js$script,important
 ||partnerzyapi.ceneo.pl$script
 ||pclab.pl/cruncher/$first-party
 ||pclab.pl/js/ads.js$important
+||pitally.info^
 ||platform.twitter.com$script
 ||plus.google.com/js$script
 ||profitboosterapp.com$popup
 ||px.large-format.net
 ||queen-domain.net$popup
 ||radioaoi.pl
-||s.fotka.pl/img/gwiazdy/baner_nostar_750x200.jpg
-||s.fotka.pl/js/advertisement.js$script,domain=fotka.com,important
 ||sgqcvfjvr.onet.pl$script,domain=pclab.pl
 ||smartadserver.com/crossdomain.xml$object,important
 ||socket-parser.work$popup
-||spolecznosci.net$domain=fotka.com
 ||stat100.ameba.jp/adcross/pub/js/adLoader-0.1.3.js$script,domain=ameblo.jp
 ||static.dpcdn.pl/*/pattern.png$image
 ||static.dpcdn.pl/2016_11_19/assets/img/magix/magix.css$stylesheet,domain=dobreprogramy.pl
@@ -84,6 +83,7 @@
 ||webfrik.pl/widget$domain=anime-odcinki.pl
 ||wordgetboo.com/redirect$popup
 ||wp.pl$domain=dobreprogramy.pl,important
+||www.gstatic.com^$domain=fotka.com
 ||zk1.zeroredirect9.com/zcvisitor$popup
 
 
