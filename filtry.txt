@@ -33,7 +33,7 @@
 ||console-domain.link$popup
 ||converti.se
 ||day-multi.work$popup
-||events.onet.pl$script,domain=pclab.pl
+||events.onet.pl$domain=pclab.pl
 ||extads.net
 ||fotka.com/ajax_action/ads_stats
 ||fotka.com/profil/savevisits/api.php$xmlhttprequest,first-party
