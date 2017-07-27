@@ -1,12 +1,20 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 02 Dec 2016 01:11
+! Last modified: 28 Jul 2017 00:24
 ! Expires: 1 days 
-! Version: 1.54
+! Version: 1.55
+
+
+
 !--------------------------------------------------------------------------!
+||$third-party,popup,domain=a-o.ninja
+||$third-party,popup,domain=www.animezone.pl
+||$third-party,script,domain=a-o.ninja
+||$third-party,script,domain=www.animezone.pl
 ||*$xmlhttprequest,domain=raw.senmanga.com
 ||*.cloudfront.net$domain=raw.senmanga.com
 ||adotube.com/crossdomain.xml$object,important
+||adsstrike.pro
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/ads$script
 ||adverpub.com/tag/ext/480/$subdocument
@@ -16,6 +24,7 @@
 ||benchmark.pl/js/n/b.ads.js$important
 ||bid.g.doubleclick.net/crossdomain.xml$object,important
 ||boksy.onet.pl$script,domain=pclab.pl
+||briskerryv.com^
 ||c2s-openrtb.liverail.com/$object,domain=dailymotion.com,important
 ||cdn-static.liverail.com$object,domain=dailymotion.com,important
 ||chatango.com
@@ -25,6 +34,7 @@
 ||converti.se
 ||day-multi.work$popup
 ||events.onet.pl$script,domain=pclab.pl
+||extads.net
 ||fotka.com/ajax_action/adblock_stat$xmlhttprequest,first-party
 ||goadservices.com$script
 ||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
@@ -34,6 +44,7 @@
 ||juiceads.net/wigetmedia.php$popup
 ||k266d5zsl.onet.pl$domain=pclab.pl
 ||large-format.net$popup
+||llog.pl^
 ||mangafox.me/fb.html$subdocument,first-party
 ||maps.google.com/maps-api-v3$script,domain=drama-online.pl
 ||myao.adocean.pl/*.xml$object,important
@@ -41,8 +52,8 @@
 ||njfy6.voluumtrk.com$popup
 ||pagead2.googlesyndication.com/pagead/js$script,important
 ||partnerzyapi.ceneo.pl$script
-||pclab.pl/js/ads.js$important
 ||pclab.pl/cruncher/$first-party
+||pclab.pl/js/ads.js$important
 ||platform.twitter.com$script
 ||plus.google.com/js$script
 ||profitboosterapp.com$popup
@@ -136,8 +147,7 @@ yafud.pl###fbBOX
 
 
 !--------------------------------------------------------------------------!
-@@||connect.facebook.net$script,domain=streetfoodpolska.pl
 @@||imgstat.ameba.jp/view$image,domain=ameblo.jp
 @@||liverail.com$object,domain=dailymotion.com
 @@||morele.net$xmlhttprequest,first-party,important
-
+@@||myanimelist.net/includes/ajax.inc.php$xmlhttprequest,first-party
