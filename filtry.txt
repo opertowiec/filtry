@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 28 Jul 2017 01:02
+! Last modified: 18 Apr 2018 04:17
 ! Expires: 1 days 
-! Version: 1.60
+! Version: 1.61
 
 
 
@@ -13,6 +13,10 @@
 ||$third-party,script,domain=www.animezone.pl
 ||*$xmlhttprequest,domain=raw.senmanga.com
 ||*.cloudfront.net$domain=raw.senmanga.com
+||a.wpimg.pl^$important
+||a-o.ninja/sw.js$script,first-party,important
+||a-o.ninja/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js$script,first-party,important
+||a-o.ninja/wp-content/uploads/addtoany/page.js$script,first-party,important
 ||adotube.com/crossdomain.xml$object,important
 ||adsstrike.pro
 ||adt.measure.ameblo.jp$image,first-party
@@ -63,14 +67,15 @@
 ||px.large-format.net
 ||queen-domain.net$popup
 ||radioaoi.pl
+||rtbnowads.com^$domain=a-o.ninja,important
 ||sgqcvfjvr.onet.pl$script,domain=pclab.pl
 ||smartadserver.com/crossdomain.xml$object,important
 ||socket-parser.work$popup
 ||stat100.ameba.jp/adcross/pub/js/adLoader-0.1.3.js$script,domain=ameblo.jp
-||static.dpcdn.pl/*/pattern.png$image
-||static.dpcdn.pl/2016_11_19/assets/img/magix/magix.css$stylesheet,domain=dobreprogramy.pl
 ||static1.dmcdn.net/mc/masthead/Wargaming$domain=dailymotion.com
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
+||static.dpcdn.pl/2016_11_19/assets/img/magix/magix.css$stylesheet,domain=dobreprogramy.pl
+||static.dpcdn.pl/*/pattern.png$image
 ||stephanie.dntrx.com$popup
 ||t4.liverail.com$object,domain=dailymotion.com,important
 ||translate.google.com$script,domain=station-drivers.com
@@ -86,8 +91,8 @@
 ||zk1.zeroredirect9.com/zcvisitor$popup
 
 
-
 !--------------------------------------------------------------------------!
+a-o.ninja##.region-content.region > p:nth-of-type(3)
 benchmark.pl###socialEntryBar
 dansetsu.pl###content > .banner
 dansetsu.pl###fbBox
