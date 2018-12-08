@@ -14,14 +14,12 @@
 ||*$xmlhttprequest,domain=raw.senmanga.com
 ||*.cloudfront.net$domain=raw.senmanga.com
 ||a.wpimg.pl^$important
-||a-o.ninja/sw.js$script,first-party,important
-||a-o.ninja/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js$script,first-party,important
-||a-o.ninja/wp-content/uploads/addtoany/page.js$script,first-party,important
 ||adotube.com/crossdomain.xml$object,important
 ||adsstrike.pro
 ||adt.measure.ameblo.jp$image,first-party
 ||adverpub.com/ads$script
 ||adverpub.com/tag/ext/480/$subdocument
+||anime-odcinki.pl/animenews.js$important
 ||apis.google.com/js/plusone.js
 ||beach-queen.net$popup
 ||benchmark.pl/js/header.ad.js$script,domain=benchmark.pl
@@ -31,6 +29,7 @@
 ||briskerryv.com^
 ||c2s-openrtb.liverail.com/$object,domain=dailymotion.com,important
 ||cdn-static.liverail.com$object,domain=dailymotion.com,important
+||cdn.stroerdigital.pl^
 ||chatango.com
 ||cloudfront.net$script,domain=openload.co
 ||connect.facebook.net$script
@@ -44,7 +43,7 @@
 ||goadservices.com$script
 ||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
 ||graph.facebook.com
-||gstatic.com^$domain=fotka.com
+||gstatic.com^$important
 ||i.wp.pl$script
 ||juiceads.net/wigetmedia.php$popup
 ||k266d5zsl.onet.pl$domain=pclab.pl
@@ -76,6 +75,7 @@
 ||static2.dmcdn.net/static/skins/589/610/16985:6849_wargaming_pl.css$stylesheet,domain=dailymotion.com
 ||static.dpcdn.pl/2016_11_19/assets/img/magix/magix.css$stylesheet,domain=dobreprogramy.pl
 ||static.dpcdn.pl/*/pattern.png$image
+||std.wpcdn.pl^$important
 ||stephanie.dntrx.com$popup
 ||t4.liverail.com$object,domain=dailymotion.com,important
 ||translate.google.com$script,domain=station-drivers.com
@@ -84,7 +84,6 @@
 ||videowood.tv/pop$popup
 ||vidfile.net/js/6/10/sharing.js$script,first-party
 ||vidshaker.com$popup
-||w.sharethis.com/button/buttons.js$script,domain=mangafox.me,important
 ||widget.convertiser.com^
 ||wordgetboo.com/redirect$popup
 ||wp.pl$domain=dobreprogramy.pl,important
@@ -92,7 +91,6 @@
 
 
 !--------------------------------------------------------------------------!
-a-o.ninja##.region-content.region > p:nth-of-type(3)
 benchmark.pl###socialEntryBar
 dansetsu.pl###content > .banner
 dansetsu.pl###fbBox
@@ -107,5 +105,4 @@ yafud.pl###fbBOX
 !--------------------------------------------------------------------------!
 @@||imgstat.ameba.jp/view$image,domain=ameblo.jp
 @@||liverail.com$object,domain=dailymotion.com
-@@||morele.net$xmlhttprequest,first-party,important
 @@||myanimelist.net/includes/ajax.inc.php$xmlhttprequest,first-party
