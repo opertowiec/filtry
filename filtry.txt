@@ -1,15 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 09 Dec 2018 00:21
+! Last modified: 09 Dec 2018 00:26
 ! Expires: 1 days 
-! Version: 1.62
+! Version: 1.63
 
 
 
 !--------------------------------------------------------------------------!
-||$third-party,popup,domain=a-o.ninja
+||$third-party,popup,domain=anime-odcinki.pl
 ||$third-party,popup,domain=www.animezone.pl
-||$third-party,script,domain=a-o.ninja
+||$third-party,script,domain=anime-odcinki.pl
 ||$third-party,script,domain=www.animezone.pl
 ||*$xmlhttprequest,domain=raw.senmanga.com
 ||*.cloudfront.net$domain=raw.senmanga.com
