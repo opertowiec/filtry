@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 09 Dec 2018 00:26
+! Last modified: 10 Dec 2018 07:02
 ! Expires: 1 days 
-! Version: 1.63
+! Version: 1.64
 
 
 
