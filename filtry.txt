@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Filtry
-! Last modified: 10 Dec 2018 07:05
+! Last modified: 10 Dec 2018 09:34
 ! Expires: 1 days 
-! Version: 1.65
+! Version: 1.66
 
 
 
@@ -103,7 +103,8 @@ yafud.pl###fbBOX
 
 
 !--------------------------------------------------------------------------!
+@@||encrypted-tbn0.gstatic.com^$domain=google.pl
+@@||fonts.gstatic.com
 @@||imgstat.ameba.jp/view$image,domain=ameblo.jp
 @@||liverail.com$object,domain=dailymotion.com
 @@||myanimelist.net/includes/ajax.inc.php$xmlhttprequest,first-party
-@@||encrypted-tbn0.gstatic.com^$domain=google.pl
