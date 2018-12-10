@@ -43,7 +43,7 @@
 ||goadservices.com$script
 ||googletagmanager.com/gtm.js?id=GTM-PJKCFC$script,domain=benchmark.pl,important
 ||graph.facebook.com
-||gstatic.com^$important
+||gstatic.com
 ||i.wp.pl$script
 ||juiceads.net/wigetmedia.php$popup
 ||k266d5zsl.onet.pl$domain=pclab.pl
